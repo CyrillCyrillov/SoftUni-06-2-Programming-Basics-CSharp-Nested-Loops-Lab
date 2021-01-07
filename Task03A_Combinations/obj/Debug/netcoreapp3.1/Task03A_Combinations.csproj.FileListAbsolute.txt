@@ -1,0 +1,12 @@
+C:\Users\Kiril\source\repos\Lesson06\Task03A_Combinations\obj\Debug\netcoreapp3.1\Task03A_Combinations.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\Lesson06\Task03A_Combinations\obj\Debug\netcoreapp3.1\Task03A_Combinations.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\Lesson06\Task03A_Combinations\obj\Debug\netcoreapp3.1\Task03A_Combinations.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\Lesson06\Task03A_Combinations\bin\Debug\netcoreapp3.1\Task03A_Combinations.exe
+C:\Users\Kiril\source\repos\Lesson06\Task03A_Combinations\bin\Debug\netcoreapp3.1\Task03A_Combinations.deps.json
+C:\Users\Kiril\source\repos\Lesson06\Task03A_Combinations\bin\Debug\netcoreapp3.1\Task03A_Combinations.runtimeconfig.json
+C:\Users\Kiril\source\repos\Lesson06\Task03A_Combinations\bin\Debug\netcoreapp3.1\Task03A_Combinations.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\Lesson06\Task03A_Combinations\bin\Debug\netcoreapp3.1\Task03A_Combinations.dll
+C:\Users\Kiril\source\repos\Lesson06\Task03A_Combinations\bin\Debug\netcoreapp3.1\Task03A_Combinations.pdb
+C:\Users\Kiril\source\repos\Lesson06\Task03A_Combinations\obj\Debug\netcoreapp3.1\Task03A_Combinations.dll
+C:\Users\Kiril\source\repos\Lesson06\Task03A_Combinations\obj\Debug\netcoreapp3.1\Task03A_Combinations.pdb
+C:\Users\Kiril\source\repos\Lesson06\Task03A_Combinations\obj\Debug\netcoreapp3.1\Task03A_Combinations.genruntimeconfig.cache
